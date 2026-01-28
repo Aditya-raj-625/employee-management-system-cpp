@@ -1,8 +1,25 @@
-# React + Vite
+# Employee Management System (C++)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a console-based Employee Management System developed in C++.
 
-Currently, two official plugins are available:
+## Features
+- Add new employee records
+- View all employee details
+- Update existing employee information
+- Delete employee records
+- Menu-driven console interface
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Concepts Used
+- C++ Programming
+- File Handling
+- Functions and Control Structures
+- Structured Programming
+
+## Learning Outcome
+This project helped me understand how real-world data management systems
+work using C++ and file handling concepts.
+
+## Credit
+This project is forked from the original repository:
+https://github.com/saarthack/ems
+
